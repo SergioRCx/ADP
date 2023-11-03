@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.header('¡Hola Mundo!')
+    st.title('¡Hola Mundo!')
     st.write('Sergio RC')
 
 if __name__ == '__main__':
