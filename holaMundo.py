@@ -7,8 +7,6 @@ def main():
         <style>
         body {
             text-align: center;
-            color: aqua;
-            font-size: 50px;
         }
         </style>
         """,
