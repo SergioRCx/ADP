@@ -5,8 +5,8 @@ def main():
         """
         <style>
         body {
-            color: aqua;
             text-align: center;
+            color: aqua;
         }
         </style>
         """,
