@@ -2,17 +2,7 @@ import streamlit as st
 
 def main():
     st.title('¡Hola Mundo!')
-    st.markdown(
-        """
-        <style>
-        body {
-            text-align: center;
-        }
-        </style>
-        """,
-        unsafe_allow_html=True
-    )
-    st.write('Sergio Alexis Romero Carreto')
+    st.write('<p style="text-align: center; color: aqua; font-size: 50px;">Sergio Alexis Romero Carreto</p>', unsafe_allow_html=True)
     st.write('NC: 19091427')
 #text-align: center;
 #color: aqua;
