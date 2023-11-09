@@ -6,7 +6,7 @@ def main():
         <style>
         body {
             color: aqua;
-             text-align: center;
+            text-align: center;
         }
         </style>
         """,
