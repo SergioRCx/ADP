@@ -5,8 +5,7 @@ def main():
         """
         <style>
         body {
-            text-align: center;
-            font-size: 50px;
+            text-align: center;font-size: 50px;
         }
         </style>
         """,
