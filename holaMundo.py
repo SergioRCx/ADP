@@ -5,7 +5,6 @@ def main():
         """
         <style>
         body {
-            color: aqua;
             background-color: white;
         }
         </style>
